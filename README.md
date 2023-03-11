@@ -1,6 +1,6 @@
 # Counterterrorism Wars: Drone Strikes Analysis in Pakistan
 
-![U.S Drone](assets\MQ-9_Afghanistan_takeoff_1_Oct_07.jpeg)
+![U.S Drone](/assets/MQ-9_Afghanistan_takeoff_1_Oct_07.jpeg)
 
 Source: By U.S. Air Force - This image was released by the United States Air Force with the ID [070931-M-5827M-020](https://www.174attackwing.ang.af.mil/News/Photos/igphoto/2000442364/) [(next)](https://commons.wikimedia.org/w/index.php?title=Category:Files_created_by_the_United_States_Air_Force_with_known_IDs&filefrom=070931-M-5827M-020#mw-category-media). This tag does not indicate the copyright status of the attached work. A normal [copyright tag](https://commons.wikimedia.org/wiki/Commons:Copyright_tags) is still required. See [Commons:Licensing](https://commons.wikimedia.org/wiki/Commons:Licensing)
 
