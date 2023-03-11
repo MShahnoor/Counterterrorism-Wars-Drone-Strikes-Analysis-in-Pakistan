@@ -133,37 +133,37 @@ The analysis of US drone strikes in Pakistan reveals several insights into the p
 
 Donut chart to show casualties by category:
 
-![Pie chart showing the percentages of drone strike casualties in each category](assets\casualties_by_category_pie.png)
+![Pie chart showing the percentages of drone strike casualties in each category](/assets/casualties_by_category_pie.png)
 
 2. The most targeted regions were North Waziristan and South Waziristan, which belong to present-day Khyber Pakhtunkhwa (previously, North Waziristan and South Waziristan were part of FATA).
 
 Bar chart to show casualties by each region:
 
-![Bar chart showing the regions with most casualties](assets\most_casualties_by_regions_bar.png)
+![Bar chart showing the regions with most casualties](/assets/most_casualties_by_regions_bar.png)
 
 Pie chart to show percentage of strikes by each region:
 
-![Pie chart showing the most targeted regions](assets\most_targeted_regions_pie.png)
+![Pie chart showing the most targeted regions](/assets/most_targeted_regions_pie.png)
 
 3. The number of drone strikes and fatalities increased sharply from 2009 to 2010, reaching a peak in 2010, before gradually declining until 2016.
 
 Line chart to show average casualties by year:
 
-![Line graph showing the number of casualtes per year from 2004 to 2018](assets\casualties_by_year_line.png)
+![Line graph showing the number of casualtes per year from 2004 to 2018](/assets/casualties_by_year_line.png)
 
 Histogram to show strikes by year:
 
-![Line graph showing the number of casualtes per year from 2004 to 2018](assets\strikes_by_year_hist.png)
+![Line graph showing the number of casualtes per year from 2004 to 2018](/assets/strikes_by_year_hist.png)
 
 4. The most targeted organization was the Taliban, followed by Al-Qaeda and Haqqani Network.
 
 Bar chart to show casualties by organization:
 
-![Bar graph showing the number of casualties of each organization](assets\casualties_by_organization_bar.png)
+![Bar graph showing the number of casualties of each organization](/assets/casualties_by_organization_bar.png)
 
 5. The geographical distribution of drone strikes is highly concentrated in certain regions, with clusters of strikes occurring in specific areas.
 
-![Interactive map showing the concentration of drone strikes in specific regions](assets\interactive_map2.gif)
+![Interactive map showing the concentration of drone strikes in specific regions](/assets/interactive_map2.gif)
 
 These findings provide important insights into the impact of US drone strikes in Pakistan, highlighting the areas and groups that were most affected by the strikes. The geospatial analysis also provides a visual representation of the distribution of drone strikes, allowing for a better understanding of the scope and scale of the strikes. Overall, the analysis demonstrates the value of data analysis and visualization in gaining insights into complex issues such as drone strikes.
 
