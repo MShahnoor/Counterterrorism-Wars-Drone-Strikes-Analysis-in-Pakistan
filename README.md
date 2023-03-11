@@ -180,9 +180,9 @@ These findings provide important insights into the impact of US drone strikes in
 
 ## 7. Explore the notebook
 
-- [ Data Wrangling ](url_here)
-- [ Analysis and Visualization ](url_here)
-- [ Geospatial Analysis ](url_here)
+- [ Data Wrangling ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Data_Wrangling.ipynb)
+- [ Analysis and Visualization ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Data_Analysis_and_Visualization.ipynb)
+- [ Geospatial Analysis ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Drone_Attacks_Geospatial_Analysis.ipynb)
 
 ## 9. Contribution
 
