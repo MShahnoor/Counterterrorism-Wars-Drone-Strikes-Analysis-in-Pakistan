@@ -20,7 +20,7 @@ Source: By U.S. Air Force - This image was released by the United States Air For
 5. [Tools and Libraries](#tools-and-libraries)
 6. [Findings](#findings)
 7. [Explore the notebooks](#explore-the-notebook)
-8. [Repository structure](#repository-structure)
+8. [Repository Structure](#repository-structure)
 9. [Contribution](#contribution)
 10. [License](#license)
 
@@ -183,6 +183,35 @@ These findings provide important insights into the impact of US drone strikes in
 - [ Data Wrangling ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Data_Wrangling.ipynb)
 - [ Analysis and Visualization ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Data_Analysis_and_Visualization.ipynb)
 - [ Geospatial Analysis ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Drone_Attacks_Geospatial_Analysis.ipynb)
+
+## 8. Repository Structure
+
+```
+
+├── assets
+│   ├── MQ-9_Afghanistan_takeoff_1_Oct_07.jpeg
+│   ├── interactive_map.gif
+│   ├── casualties_by_category_pie.png
+│   ├── most_casualties_by_regions_bar.png
+│   ├── casualties_by_organization_bar.png
+│   ├── most_targeted_regions_pie.png
+│   ├── casualties_by_year_line.png
+│   └── strikes_by_year_hist.png
+│
+├── data
+│   ├── drone-attacks-data-cleaned.csv
+│   └── drone_attacks.csv
+│
+├── notebooks
+│   ├── Counterterrorism_Wars_Data_Analysis_and_Visualization.ipynb
+│   ├── Counterterrorism_Wars_Data_Wrangling.ipynb
+│   └── Counterterrorism_Wars_Drone_Attacks_Geospatial_Analysis.ipynb
+│
+├── README.md
+│
+└── LICENSE
+
+```
 
 ## 9. Contribution
 
