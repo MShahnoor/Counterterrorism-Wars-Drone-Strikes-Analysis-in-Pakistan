@@ -42,7 +42,7 @@ The data used in this project was gathered from publicly available sources.
 
 The methods used in this project can be categorized into the following sections:
 
-### 1. Data Wrangling
+### Data Wrangling
 
 The data wrangling process for this project involved the following steps:
 
@@ -76,7 +76,7 @@ These strategies were utilized to maintain the integrity and quality of the data
 
 Overall, the data wrangling process was a critical step in preparing the dataset for analysis and ensuring the accuracy and consistency of the results.
 
-### 2. Data Visualization and Analysis
+### Data Analysis and Visualization
 
 The data visualization and analysis of the drone strikes in Pakistan was performed to gain insights into the patterns and trends of drone strikes. The libraries used for visualization and analysis are seaborn and matplotlib.
 
@@ -100,7 +100,7 @@ The data visualization and analysis of the drone strikes in Pakistan was perform
 
 These visualizations provide useful insights into the patterns and trends of drone strikes in Pakistan. The findings are discussed in detail in the next section.
 
-### 3. Geospatial Analysis
+### Geospatial Analysis
 
 Geospatial analysis was performed to create interactive maps that display the geographical distribution of the drone strikes. The folium library was used to create the maps, which include markers for each drone strike location. The markers provide information on the date, location, target type, and number of fatalities. Clusters were also created for those markers that were located in close proximity to each other.
 
@@ -178,13 +178,13 @@ These findings provide important insights into the impact of US drone strikes in
 | Geographical distribution of drone strikes                               | Highly concentrated in certain regions, with clusters of strikes occurring in specific areas.        |
 | Fatalities                                                               | Majority of casualties were militants.                                                               |
 
-## 7. Explore the notebook
+## Explore the notebook
 
 - [ Data Wrangling ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Data_Wrangling.ipynb)
 - [ Analysis and Visualization ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Data_Analysis_and_Visualization.ipynb)
 - [ Geospatial Analysis ](https://nbviewer.org/github/MShahnoor/Counterterrorism-Wars-Drone-Strikes-Analysis-in-Pakistan/blob/main/notebooks/Counterterrorism_Wars_Drone_Attacks_Geospatial_Analysis.ipynb)
 
-## 8. Repository Structure
+## Repository Structure
 
 ```
 
@@ -213,7 +213,7 @@ These findings provide important insights into the impact of US drone strikes in
 
 ```
 
-## 9. Contribution
+## Contribution
 
 This project is open to contributions from interested parties. To ensure a streamlined process, kindly follow these guidelines:
 
@@ -223,6 +223,6 @@ This project is open to contributions from interested parties. To ensure a strea
 
 Thank you for your interest in contributing to this project. Your contributions are valuable and greatly appreciated.
 
-## 10. License
+## License
 
 This project is licensed under the MIT License, which allows for free and open use, modification, and distribution of the code. Please refer to the [LICENSE.txt](LICENSE) file for more information.
