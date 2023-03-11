@@ -5,6 +5,7 @@
 Source: By U.S. Air Force - This image was released by the United States Air Force with the ID [070931-M-5827M-020](https://www.174attackwing.ang.af.mil/News/Photos/igphoto/2000442364/) [(next)](https://commons.wikimedia.org/w/index.php?title=Category:Files_created_by_the_United_States_Air_Force_with_known_IDs&filefrom=070931-M-5827M-020#mw-category-media). This tag does not indicate the copyright status of the attached work. A normal [copyright tag](https://commons.wikimedia.org/wiki/Commons:Copyright_tags) is still required. See [Commons:Licensing](https://commons.wikimedia.org/wiki/Commons:Licensing)
 
 [![Python version](https://img.shields.io/badge/Python-v3.9.16-blue)](https://www.python.org/downloads/release/python-3916/)
+![Type of study](https://img.shields.io/badge/Type%20of%20study-Data%20Analytics-blue)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellowgreen.svg)](https://github.com/yourusername/yourrepositoryname)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
