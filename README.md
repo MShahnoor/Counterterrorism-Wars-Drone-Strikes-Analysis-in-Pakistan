@@ -163,7 +163,7 @@ Bar chart to show casualties by organization:
 
 5. The geographical distribution of drone strikes is highly concentrated in certain regions, with clusters of strikes occurring in specific areas.
 
-![Interactive map showing the concentration of drone strikes in specific regions](/assets/interactive_map2.gif)
+![Interactive map showing the concentration of drone strikes in specific regions](/assets/interactive_map.gif)
 
 These findings provide important insights into the impact of US drone strikes in Pakistan, highlighting the areas and groups that were most affected by the strikes. The geospatial analysis also provides a visual representation of the distribution of drone strikes, allowing for a better understanding of the scope and scale of the strikes. Overall, the analysis demonstrates the value of data analysis and visualization in gaining insights into complex issues such as drone strikes.
 
