@@ -6,8 +6,8 @@ Source: By U.S. Air Force - This image was released by the United States Air For
 
 [![Python version](https://img.shields.io/badge/Python-v3.9.16-blue)](https://www.python.org/downloads/release/python-3916/)
 ![Type of study](https://img.shields.io/badge/Type%20of%20study-Data%20Analytics-blue)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellowgreen.svg)](https://github.com/yourusername/yourrepositoryname)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellowgreen.svg)](#contribution)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Authors
 
