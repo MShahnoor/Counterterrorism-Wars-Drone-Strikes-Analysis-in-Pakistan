@@ -90,7 +90,7 @@ Overall, the data wrangling process was a critical step in preparing the dataset
 The data visualization and analysis of the drone strikes in Pakistan was performed to gain insights into the patterns and trends of drone strikes. The libraries used for visualization and analysis are seaborn and matplotlib.
 
 - **Casualties by Category:**
-  We visualized the distribution of casualties across different categories, including leaders, militants, civilian casualties, and unknown, using a donut chart created with matplotlib.
+  The distribution of casualties across various categories, such as leaders, militants, civilian casualties, and unknown, was visualized using a donut chart created with matplotlib.
 
 - **Casualties by Region:**
   The distribution of casualties across categories, including leaders, militants, civilian casualties, and unknown, was visualized using a donut chart created with matplotlib.
