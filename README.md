@@ -13,9 +13,7 @@ Source: By U.S. Air Force - This image was released by the United States Air For
 
 - [@shahnoor](https://github.com/MShahnoor)
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahnoor-025668252/)
-
-
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahnoor/)
 
 ## Table of Contents
 
